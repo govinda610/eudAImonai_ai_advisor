@@ -1,0 +1,3 @@
+[submodule "datavisualization_langgraph"]
+	path = datavisualization_langgraph
+	url = https://github.com/govinda610/eudAImonai_ai_advisor
