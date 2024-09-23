@@ -1,0 +1,11 @@
+{
+  "python_version": "3.11",
+  "dockerfile_lines": [],
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "my_agent": "/Users/govindmittal/datascience-setup/ai_advisor/datavisualization_langgraph/backend_py/my_agent/main.py:graph"
+  },
+  "env": ".env"
+}
