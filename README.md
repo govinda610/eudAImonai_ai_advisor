@@ -27,9 +27,9 @@ The app is evolving into a full AI advisor with the ability to:
 
 ## 🛠️ Tech Stack
 - **Python** (Backend logic)
-- **Streamlit** (Activity Tracker UI)
+- **Streamlit** (Activity Tracker UI) activitytracker.py
 - **SQL Databases** (Data storage)
-- **LangGraph** (Data visualization agent)
+- **LangGraph** (Data visualization agent) use backend.py for the same
 - **Next.js** (Planned for future enhancements)
   
 ---
